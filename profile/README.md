@@ -37,6 +37,6 @@ Methods, raw data and how to reproduce every number: [qevedo-simulator/benchmark
 
 ## Get involved
 
-Issues and pull requests are welcome in each repository. Everything is open source under the Apache 2.0 or MIT license.
+Issues and pull requests are welcome in each repository. Everything is open source under the MIT license.
 
 [qevedo.com](https://qevedo.com)
