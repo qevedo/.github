@@ -9,7 +9,7 @@ pip install qevedo
 | Project | Package | What it does |
 |---|---|---|
 | [**qevedo-simulator**](https://github.com/qevedo/qevedo-simulator) | [![PyPI](https://img.shields.io/pypi/v/qevedo-simulator?label=qevedo-simulator)](https://pypi.org/project/qevedo-simulator/) | **qvd**, a quantum circuit simulator in Rust with five methods, chosen automatically: an AVX2 state vector, a Stim-style stabilizer simulator, matrix product states, and a Clifford-frame near-Clifford simulator. |
-| [**qevedo-compiler**](https://github.com/qevedo/qevedo-compiler) | [![PyPI](https://img.shields.io/pypi/v/qevedo-compiler?label=qevedo-compiler)](https://pypi.org/project/qevedo-compiler/) | **QCC**, a technology-agnostic quantum circuit compiler: OpenQASM 2/3 in and out, lowered and optimized for a device profile. |
+| [**qcc**](https://github.com/qevedo/qcc) | [![PyPI](https://img.shields.io/pypi/v/qevedo-compiler?label=qevedo-compiler)](https://pypi.org/project/qevedo-compiler/) | **QCC**, a technology-agnostic quantum circuit compiler: OpenQASM 2/3 in and out, lowered and optimized for a device profile. |
 | [**openqasm**](https://github.com/qevedo/openqasm) | [![PyPI](https://img.shields.io/pypi/v/openqasm?label=openqasm)](https://pypi.org/project/openqasm/) | An OpenQASM 2 and 3 parser and semantic checker for Python. |
 | [**qevedo**](https://github.com/qevedo/qevedo) | [![PyPI](https://img.shields.io/pypi/v/qevedo?label=qevedo)](https://pypi.org/project/qevedo/) | All of the above in one install. |
 
